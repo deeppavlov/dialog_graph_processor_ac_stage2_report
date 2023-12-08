@@ -77,7 +77,6 @@ next_utterances = [
      'Darmstadt University of Technology is in the top 25 universities in Europe with the most scientific impact according to the QS World University Rankings 2020.',
      'In the European university rankings, Darmstadt University of Technology is ranked 15th.',
      'The maximum length of Otago Harbour is 21 kilometers (13 miles).',
-     'The first event took place at the stadium on October 24, 1971.',
      'This happened 6 million years ago.',
      'The arena closed in June 2010.',
      'The park was founded in 1955.'
